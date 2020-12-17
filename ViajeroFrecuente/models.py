@@ -1,6 +1,5 @@
 # Create your models here.
 from django.db import models
-from _overlapped import NULL
 from _decimal import Decimal
 import datetime
 from django.conf import settings
